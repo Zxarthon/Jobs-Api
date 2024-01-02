@@ -11,6 +11,11 @@ After that run this command
 npm install && npm start
 ```
 
+### Note (swagger ui)
+Project works fine without the Swagger UI too
+(Remove the swagger.yaml file & the code for swagger in app.js).
+Use Postman instead.
+
 Swagger UI
 
 ```yaml
